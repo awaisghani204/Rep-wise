@@ -1,0 +1,8 @@
+{
+  "name": "pose-landmarker",
+  "version": "0.1.0",
+  "private": true,
+  "description": "MediaPipe PoseLandmarker VisionCamera frame processor plugin (local Expo module, Android only)",
+  "main": "index.ts",
+  "types": "index.ts"
+}
